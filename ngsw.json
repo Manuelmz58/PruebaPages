@@ -1,0 +1,141 @@
+{
+  "configVersion": 1,
+  "timestamp": 1714173266793,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/507.81781956561c1b8d.js",
+        "/520.32ec5c3424deb73d.js",
+        "/698.b44d10fe15cc29c1.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.52f09188a3dd738b.js",
+        "/manifest.webmanifest",
+        "/polyfills.8a08e337e9ed9350.js",
+        "/runtime.a5cff68f782250f6.js",
+        "/scripts.610f633775d5e52d.js",
+        "/styles.0ad60ac93f25aca7.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/Imagen3.png",
+        "/assets/img/cliente.png",
+        "/assets/img/disponible.png",
+        "/assets/img/gym.png",
+        "/assets/img/img_login.jpg",
+        "/assets/img/logo.jpeg",
+        "/assets/img/logo2.png",
+        "/assets/img/logo3.png",
+        "/assets/img/mem.png",
+        "/assets/img/producto.png",
+        "/assets/img/productos.png",
+        "/assets/img/sucursal.png",
+        "/assets/img/telefono.png",
+        "/assets/img/tomar-foto.png",
+        "/assets/img/ubicacion.png",
+        "/assets/img/ventas.png",
+        "/assets/img/ventasPro.png",
+        "/fa-brands-400.8bf6ccf0176a7567.ttf",
+        "/fa-brands-400.e465758e13df1d72.woff2",
+        "/fa-regular-400.a937b755f79cb30d.ttf",
+        "/fa-regular-400.f386b6b7c6bf65a5.woff2",
+        "/fa-solid-900.081655f2111aa667.ttf",
+        "/fa-solid-900.ce4938a30389d90a.woff2",
+        "/fa-v4compatibility.ed8d1a54225df308.woff2",
+        "/fa-v4compatibility.f8c4829c7f225502.ttf",
+        "/img_login.9c67a6b9b580f848.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/507.81781956561c1b8d.js": "71a0e684d63900c1ec0a2d50a87de3082ee871e9",
+    "/520.32ec5c3424deb73d.js": "323cce0721e2419bf9f0789e955b2b5988e400be",
+    "/698.b44d10fe15cc29c1.js": "ee8478a357568e7138ab912593b112c641b9bc38",
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/assets/img/Imagen3.png": "6bfe6be5443b7e902d18e5aebd7e961fdb921f52",
+    "/assets/img/cliente.png": "ab45c586b6846ff6e5e33fc782f1d92f9e93d407",
+    "/assets/img/disponible.png": "7cfe1c3025ae5b555de17b38fe6e50cca3a8ba63",
+    "/assets/img/gym.png": "ffc9019bc57c5c97bbe6f0eb2e2b930d12795b82",
+    "/assets/img/img_login.jpg": "cb5bdeda0dd837b1dfb261ea29b22309368d2beb",
+    "/assets/img/logo.jpeg": "38df6811bf5146414876fd2a675f3417ea4b26e4",
+    "/assets/img/logo2.png": "7909516e9bb2cc3c5478f0bf6a70e027b49bc632",
+    "/assets/img/logo3.png": "aeaf21f2709faa035c9903b443136e4bcace7143",
+    "/assets/img/mem.png": "25dca826825acfcc46f6919d28d4cc2ad62bae56",
+    "/assets/img/producto.png": "882f0d71d86cdca3521a369dc0b33b50bf37a88e",
+    "/assets/img/productos.png": "a0dfbe7be05f80cc235f03576846e191b7145ac5",
+    "/assets/img/sucursal.png": "d822558f2f92ecf4be7d7573924fd3144d8cc327",
+    "/assets/img/telefono.png": "2cccc4ee0241b66d33085ff57c072fc319659d72",
+    "/assets/img/tomar-foto.png": "55c70e766a54b4e1d59af91a095a3b560a41951e",
+    "/assets/img/ubicacion.png": "1bfe0e6793b93a4048c25b0c59850f16402d6f70",
+    "/assets/img/ventas.png": "ea066ee346cccd9def9b27ac03d548c622f9dbd3",
+    "/assets/img/ventasPro.png": "b7587934dd0c90d9a9d46a116da06e4393518e3d",
+    "/fa-brands-400.8bf6ccf0176a7567.ttf": "acaf5320927fc169b0089f8f25afb9cfbad353b4",
+    "/fa-brands-400.e465758e13df1d72.woff2": "4022f95e001d734ca8f082b8e7627abd205609ec",
+    "/fa-regular-400.a937b755f79cb30d.ttf": "784b4d493ab9a7996b07e4f9f71674b2f2e43e22",
+    "/fa-regular-400.f386b6b7c6bf65a5.woff2": "2ed706340547d19c10a409ee02fb08f3d52ff670",
+    "/fa-solid-900.081655f2111aa667.ttf": "54217d79e7b35011798d712a96d1c4ea08a0ca70",
+    "/fa-solid-900.ce4938a30389d90a.woff2": "1aae708e3b94ee981b452a918d28ed037fbb5e18",
+    "/fa-v4compatibility.ed8d1a54225df308.woff2": "7009126c938f8dad77426a5b44bc21685ee8dfec",
+    "/fa-v4compatibility.f8c4829c7f225502.ttf": "e47d5bf853d39ec86e62f4897cbcac7dd5c3b5b9",
+    "/favicon.ico": "04c278dba3e54393c4c980f7fd4dcd43796ef813",
+    "/img_login.9c67a6b9b580f848.jpg": "cb5bdeda0dd837b1dfb261ea29b22309368d2beb",
+    "/index.html": "fe609edf88981e11564b9b33eda277d30045b7ed",
+    "/main.52f09188a3dd738b.js": "c810c0c3ac17faa0b326d219e43a5e7c0ec3f9d4",
+    "/manifest.webmanifest": "3c75d7b4f9d9aafc5802e3508856d080a4589123",
+    "/polyfills.8a08e337e9ed9350.js": "1b742618f9a20bc813d0a17ccfa8480d676ddf42",
+    "/runtime.a5cff68f782250f6.js": "d0b1af88387e9d1fb36e2dba51543e303c14423a",
+    "/scripts.610f633775d5e52d.js": "36a0c2be7678688b8c34a6e4ec5c7113652685c7",
+    "/styles.0ad60ac93f25aca7.css": "c782dea9d4ecf08bfafae806c22dd96ecf9d0cba"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
